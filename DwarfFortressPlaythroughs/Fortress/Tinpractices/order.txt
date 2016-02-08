@@ -1,0 +1,13 @@
+Global order - endsnapshot
+Start-100
+Ware1-118
+Industry1-146
+Ware2-161
+Ware3-177
+Industry2-204
+Attack1-222
+Attack2-243
+Industry3-253
+Ware4-272
+Industry4-288
+TheEnd-335

@@ -38,7 +38,8 @@ var walkthrough=function(){
 		where.appendChild(box);
 	}
 	this.create_high_nav=function(stage_nav_id){
-		var stages=["main","tribal","vassal","interlude","kingdom","empire"];
+		//var stages=["main","tribal","vassal","interlude","kingdom","empire"];
+		var stages=["Start","Attack1","TheEnd"];
 		var stagebar=document.getElementById(stage_nav_id);
 		var cur_loc=location.pathname.substring(location.pathname.lastIndexOf("/") + 1);
 		for (var i=0; i<stages.length; i+=1){

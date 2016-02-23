@@ -47,7 +47,7 @@ the_walkthrough.create_block("Start/initial_8_3.png","Industry",
 		"Vertical! Nish reminded them. They laid out the first underground farms. Plump Helmets would have to do for now, although everyone was bored of them. The first still and craft bench was created and the store houses expanded."	
 	]
 );
-the_walkthrough.create_block("Start/quarter_9.png","A fistful of quarters",
+the_walkthrough.create_block("Start/quarters_9.png","A fistful of quarters",
 	[
 		"Vertical! Nish reminded them. Ignoring him momentarily, each dwarf took some time to carve himself a bedroom from the rock beneith them."	
 	]

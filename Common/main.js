@@ -50,6 +50,7 @@ var walkthrough=function(){
 			stage_link.href=stages[i]+".html"
 			stagebar.appendChild(stage_link);
 			if (stages[i]+".html"==cur_loc){
+				stage_link.className+=" selected-link";
 				this.create_navbar(stage_nav_id);
 			}
 		}

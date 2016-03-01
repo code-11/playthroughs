@@ -47,7 +47,7 @@ the_walkthrough.create_block("Were1/8_normal.png","Normality",
 );
 the_walkthrough.create_block("Were1/9_artifact.png","Artifact",
 	[
-		"Despite the somber moment, one of the more creative dwarves immorialized the occasion by creating an artifact of astounding quality."	
+		"Despite the somber moment, one of the more creative dwarves immortalized the occasion by creating an artifact of astounding quality."	
 	]
 );
 the_walkthrough.create_block("Were1/10_emerge.png","Wait. Where did the Wereweasel go?",

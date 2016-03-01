@@ -32,14 +32,14 @@ the_walkthrough.create_block("Start/noble_5.png","All the king's men",
 );
 the_walkthrough.create_block("Start/initial_6_2.png","Progress",
 	[
-		"Under Nish's orders, the dwarves expanded the industry to include a further mason and carpenter workshops aand built out the first stockpiles and bedrooms.",
+		"Under Nish's orders, the dwarves expanded the industry to include a further mason and carpenter workshops and built out the first stockpiles and bedrooms.",
 		"Nish himself claimed the largest bedroom and a further room which he claimed was his 'office'"
 	]
 );
 the_walkthrough.create_block("Start/caravan_7.png","The Caravan",
 	[
 		"While the dwarves were working, Nish came to them with bad news. They hadn't followed his order closely enough. The grand 'Trade Depot' he had planned was unfinished. Because of this, he claimed, the caravan bypassed them.",
-		"Again the darves grumbled, but again they did nothing, and prepared themselves for a long cold winter."	
+		"Again the dwarves grumbled, but again they did nothing, and prepared themselves for a long cold winter."	
 	]
 );
 the_walkthrough.create_block("Start/initial_8_3.png","Industry",
@@ -85,7 +85,7 @@ the_walkthrough.create_block("Start/mystery_15.png","A sorry fate",
 );
 the_walkthrough.create_block("Start/mystery_16_2.png","A Mystery",
 	[
-		"They had heard stories of horrible night creatures like vampires that drained the life of their vicitims. Everyone was on edge. Who could it be? If they couldn't find the right person, they all agreed to blame Nish.",
+		"They had heard stories of horrible night creatures like vampires that drained the life of their victims. Everyone was on edge. Who could it be? If they couldn't find the right person, they all agreed to blame Nish.",
 		"They found his body in a tree. Nish was still concerned it was vampires. Silly dwarf. Vampires hate trees, they assured him."
 	]
 );

@@ -21,7 +21,7 @@ the_walkthrough.create_block("Were3/3_overview.png","Overview",
 the_walkthrough.create_block("Were3/4_archery.png","Archery",
 	[
 		"Based on previous results of getting bitten, the military dwarves requested archery targets to train on.",
-		"The dwarves also became annoyed when the outpost liason refused to leave. Freeloader."
+		"The dwarves also became annoyed when the outpost liaison refused to leave. Freeloader."
 	]
 );
 the_walkthrough.create_block("Were3/5_brewer.png","A Skilled Mead",
@@ -39,7 +39,7 @@ the_walkthrough.create_block("Were3/7_engage.png","Engage",
 		"The military took its time in getting ready. Some of the citizens decided to run straight towards the wereweasel. They had no job, just decided to make things interesting."	
 	]
 );
-the_walkthrough.create_block("Were3/8_engage.png","Sowing Discontent",
+the_walkthrough.create_block("Were3/8_report.png","Sowing Discontent",
 	[
 		"Fortunately, the wereweasel had its focus set on some of the fortresses livestock."	
 	]
@@ -58,7 +58,7 @@ the_walkthrough.create_block("Were3/10_quarantine.png","Quarantine",
 );
 the_walkthrough.create_block("Were3/11_quarantine.png","Legendary",
 	[
-		"After several months behind stone walls, it turned out one of the recruits was actually innocent, and his cries distrubingly ceased.",
+		"After several months behind stone walls, it turned out one of the recruits was actually innocent, and his cries disturbingly ceased.",
 		"Meanwhile, another dwarf tried to commemorate the violence yet again. However, finding the material at his disposal not sufficient he began to foam at the mouth.",
 	]
 );
@@ -71,7 +71,7 @@ the_walkthrough.create_block("Were3/12_quarantine.png","Berserk Abridged",
 the_walkthrough.create_block("Were3/13_quarantine.png","Nish's End",
 	[
 		"It turns out Nish was innocent. The recruit on the other hand was not. The cries disturbed everyone, and all were glad when they were replaced with the usual beastial growling now common to many walls in the fortress.",
-		"With better hindsight, perhaps the convesion is not automatic. The masons considered putting any future quarantines in their own prison just to make sure."
+		"With better hindsight, perhaps the conversion is not automatic. The masons considered putting any future quarantines in their own prison just to make sure."
 	]
 );
 

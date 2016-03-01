@@ -2,7 +2,7 @@ var the_walkthrough=new walkthrough();
 
 the_walkthrough.create_block("Industry1/1_caravan.png","The Caravan",
 	[
-		"The caravan arrived! THe dwaves normally would have been overjoyed, but they realized with all the wereweasels that they had forgotten to make anything worth trading.",
+		"The caravan arrived! The dwaves normally would have been overjoyed, but they realized with all the wereweasels that they had forgotten to make anything worth trading.",
 		"Oh well, the caravanmen commented, there's always next year!",
 	]
 );
@@ -16,7 +16,7 @@ the_walkthrough.create_block("Industry1/2_overview_1.png","A heap of .25 coins",
 the_walkthrough.create_block("Industry1/3_overview_2.png","An unexpected surprise",
 	[
 		"In getting more wood (for beds and barrels, what else?) the carpenters encountered a nasty surprise!",
-		"The desicated body of their dead comrade falling on top of them. They realized that no one had actually gone and gotten him."
+		"The dessicated body of their dead comrade falling on top of them. They realized that no one had actually gone and gotten him."
 	]
 );
 the_walkthrough.create_block("Industry1/4_orders.png","Following orders",
@@ -98,7 +98,7 @@ the_walkthrough.create_block("Industry1/17_noble.png","Noble Gas",
 );
 the_walkthrough.create_block("Industry1/18_noble_2.png","Neon",
 	[
-		"Their dismay grew as a second newcommer declared himself leader of the military and demanded lavish dorms for himself as well."
+		"Their dismay grew as a second newcomer declared himself leader of the military and demanded lavish dorms for himself as well."
 	]
 );
 the_walkthrough.create_block("Industry1/19_politics_2.png","Politics",
@@ -113,12 +113,12 @@ the_walkthrough.create_block("Industry1/20_industry.png","Order Up!",
 );
 the_walkthrough.create_block("Industry1/21_overview_5.png","The state of the fortress",
 	[
-		"Tinpractices now had 61 dwarves, most of which were craftmen or farmers."
+		"Tinpractices now had 61 dwarves, most of which were craftsmen or farmers."
 	]
 );
 the_walkthrough.create_block("Industry1/22_noble_3.png","Factions",
 	[
-		"The upstarts' quarters were finished. Nish took this time to finally drag his ledgendary chair into his own room."
+		"The upstarts' quarters were finished. Nish took this time to finally drag his legendary chair into his own room."
 	]
 );
 the_walkthrough.create_block("Industry1/23_overview_6.png","Drawn and Quartered",

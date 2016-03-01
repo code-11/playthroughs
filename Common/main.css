@@ -76,3 +76,24 @@ a{
 #intro{
 	margin: 0 15vw 0 15vw;
 }
+#down-arrow{
+	width:100px;
+	display:block;
+	margin: auto;
+	position: absolute;
+	bottom: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+	/*font-weight:bold;*/
+}
+#next-btn{
+	display:block;
+	font-size:18pt;
+	color: white;
+	background-color: #2ecc71;
+	width:500px;
+	height:50px;
+	text-align: center;
+	line-height: 50px;
+	margin: 0px auto 20px auto;
+}
